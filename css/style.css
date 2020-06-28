@@ -265,12 +265,16 @@ h1, h2, h3, h4, h5,
       font-size: 20px;
       top: -.3rem;
       font-family: "icomoon";
-      content: "\e5ca";
+     
       position: absolute; }
   .ul-check.white li:before {
     color: #fff; }
   .ul-check.success li:before {
+    content: "\e5ca";
     color: #8bc34a; }
+    .ul-check.danger li:before {
+      content: "\f05c";
+      color: #ce0505; }
   .ul-check.primary li:before {
     color: #9D437B; }
 
