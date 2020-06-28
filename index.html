@@ -52,8 +52,8 @@
       var seconds = delta % 60;  // in theory the modulus is not required
       console.log(delta);
 
-      document.getElementById("countdown").innerHTML = "We are launching on Eid-al-Adha on in " + days +" days " + hours + " hours " 
-      + minutes + " minutes " + parseInt(seconds) +  " seconds 🎉";
+      document.getElementById("countdown").innerHTML = "We are launching in " + days +" days " + hours + " hrs " 
+      + minutes + " mins " + parseInt(seconds) +  " secs 🎉";
 
 
     }, 1000);
@@ -98,7 +98,9 @@
     <header class="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
 
       <div class="container">
+        
         <div class="align-items-center text-center h5" style="background-color: #dbcad5; padding: 8px;" id="countdown"></div>
+
         <div class="row align-items-center">
 
           <div class="col-6 col-md-3 col-xl-4  d-block">
