@@ -270,10 +270,10 @@ h1, h2, h3, h4, h5,
   .ul-check.white li:before {
     color: #fff; }
   .ul-check.success li:before {
-    content: "\e5ca";
+    content: "\f00c";
     color: #8bc34a; }
     .ul-check.danger li:before {
-      content: "\f05c";
+      content: "\f00d";
       color: #ce0505; }
   .ul-check.primary li:before {
     color: #9D437B; }
