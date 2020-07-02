@@ -9,9 +9,10 @@ const RESOURCES = {
 "assets/NOTICES": "b46947fd34a5c062d36ffd421d0cdacd",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"main.dart.js": "4fa9c8963fa38b12aa7f1af943b9970c",
-"index.html": "f9024bca7fd2ec0cd36ccfaacd6d3559",
-"/": "f9024bca7fd2ec0cd36ccfaacd6d3559",
+"assets/images/demo.jpeg": "0e73bba4a23c7f6941e44e5779481c38",
+"main.dart.js": "68be530e8b21fc3a3fea14e40fec25a6",
+"index.html": "826674c5f62d804032574e236df411b5",
+"/": "826674c5f62d804032574e236df411b5",
 "manifest.json": "25897238a161dee59e5457176fd1d6e9",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1"
